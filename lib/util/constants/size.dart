@@ -48,8 +48,8 @@ class AppSize{
   static const double productItemRadius = 16.0;
 
   // Input Field Dimensions
-  static const double inputFieldHeight = 48.0;
   static const double inputFieldRadius = 8.0;
+  static const double spaceBtwInputFields = 16.0;
 
   // Card Dimensions
   static const double cardElevation = 2.0;
