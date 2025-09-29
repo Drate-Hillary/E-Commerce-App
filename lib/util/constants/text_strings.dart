@@ -33,6 +33,8 @@ class TextStrings {
   static const String verificationCode = "Verification Code";
   static const String resendEmail = "Resend Email";
   static const String resendEmailIn = "Resend Email In";
+  static const String submit = "Submit";
+  static const String and = "&";
 
   // Authentication Reading Texts
   static const String loginTitle = "Welcome Back";
